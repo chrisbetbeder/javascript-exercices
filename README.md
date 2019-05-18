@@ -40,7 +40,7 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 ## Briefings de Projets
 Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
 
-1. [La-prairie](/01-La-prairie/)
+1. [La-prairie](./contenu/01-la-prairie/)
 
 ## Ressources
 
