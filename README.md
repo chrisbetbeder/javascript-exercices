@@ -31,7 +31,7 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 
 ## Tes sources d'information pour respecter les règles de BeCode
 
-1. Lis le [contrat pédagogique](../../../BeCode/blob/master/contratpedagogique.md).
+1. Lis le [contrat pédagogique](./ressources/documents/contrat-pedagogique.md).
 1. Consulte également le [livret des apprenants](https://docs.google.com/document/d/1ic7FbY_2QNg2X1n3jS0KEFEa7SbnsjKakEYkYc--XcE/edit?usp=sharing).
 1. Le [Wiki de BeCode](https://github.com/becodeorg/BeCode/wiki)
 
