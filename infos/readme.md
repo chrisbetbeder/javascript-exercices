@@ -44,6 +44,13 @@ On est de ton côté, notre objectif, c’est que ton aventure a BeCode soit la 
 
 #### Leny 
 
+Je suis ton _lead_ coach : je suis responsable de ta promo, et par la même, je m’assure que tout se passe bien pour toi.  
+Si tu as le moindre pépin, n’importe quoi qui pourrait affecter ton travail, n’hesite pas à venir m’en parler. Nous trouverons une solution ensemble, dans la mesure du possible.
+
+N’oublie pas que je ne peux rien faire si je ne sais rien : _aide-moi à t’aider_, et je serai là.
+
+##### Contact
+
 _TODO_
 
 #### Nicolas
