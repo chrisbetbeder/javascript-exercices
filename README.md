@@ -37,18 +37,8 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 - Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à leny@becode.org ET kevin@becode.org . Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
 - Malade ? Montre un certificat médical valide et préviens-nous par email aussitôt que possible.
 
-## Briefings de Projets
-Voici les liens vers les briefings, dans l'ordre chronologique par lequel ils te sont proposés.
+## Table des matières
 
-1. [La-prairie](./contenu/01-la-prairie/)
+Le repo de ta promo est organisé comme suit :
 
-## Ressources
-
-- [Grafikart](https://www.youtube.com/user/grafikarttv)
-- [OpenClassroom](https://openclassrooms.com/dashboard)
-
-## Evenement locaux
-
-Il est important pour les apprenants de participer aux évènements de leur région de type conférences, hackatons, soirées networking, etc... Voici une liste des liens potentiellement utiles pour se tenir au courant:
-
-- [Page évènement de Leansquare](https://www.facebook.com/pg/leansquarebe/events/?ref=page_internal)
+- [**contenu**](./contenu): _TODO_
