@@ -4,6 +4,10 @@
 
 * * *
 
+> ☝️ Tu t’en rendras vite compte, chez BeCode, tout va très vite. Le contenu de ce _repo_, et les infos qu’il contient, évoluent vite et se mettent à jour régulièrement. À toi de te maintenir à jour.
+
+* * *
+
 ## Usage
 
 Ce repo est pour tout ce qui concerne ton activité à BeCode : briefings, parcours, etc.
