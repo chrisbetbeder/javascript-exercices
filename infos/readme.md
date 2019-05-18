@@ -27,8 +27,8 @@ Et crois-moi, tu sais des choses que les autres ne savent pas, et qu’ils seron
 ### Ta marraine / ton parrain
 
 Les apprenants des **Jepsen** ont commencé en janvier.  
-Ils sont un peu plus loin que vous sur le chemin, et ils ont connus les mêmes galères que toi.  
-Tu t’es vu attribuer une marraine ou un parrain au début de ton aventure. Il ou elle est là pour t’aider et te transmettre trucs, astuces, apaiser tes angoisses et te supporter.
+Ils sont un peu plus loin que toi sur le chemin, et ils ont connus les mêmes galères que toi.  
+Tu t’es vu attribuer une marraine ou un parrain au début de ton aventure. Il ou elle est là pour t’aider et te transmettre trucs, astuces, apaiser tes angoisses et t'encourager.
 
 Et bientôt... tu seras toi aussi parrain ou marraine des prochains Jepsen.
 
@@ -42,9 +42,11 @@ Par contre, attention : nous ne sommes pas là pour te donner les réponses, mai
 En cas de coup de mou, perte de motivation, grand questionnement métaphysique... vient nous trouver.  
 On est de ton côté, notre objectif, c’est que ton aventure a BeCode soit la plus productive possible.
 
+> 👷‍♂️ Les spécialités techniques de l'équipe Liégeoise sont diverses et complémentaires, c'est ce qui fait notre force !
+
 #### Leny 
 
-Je suis ton _lead_ coach : je suis responsable de ta promo, et par la même, je m’assure que tout se passe bien pour toi.  
+Je suis ton _lead coach_ : je suis responsable de ta promo, et par la même, je m’assure que tout se passe bien pour toi.  
 Si tu as le moindre pépin, n’importe quoi qui pourrait affecter ton travail, n’hesite pas à venir m’en parler. Nous trouverons une solution ensemble, dans la mesure du possible.
 
 N’oublie pas que je ne peux rien faire si je ne sais rien : _aide-moi à t’aider_, et je serai là.
@@ -59,23 +61,70 @@ N’oublie pas que je ne peux rien faire si je ne sais rien : _aide-moi à t’a
 
 #### Nicolas
 
-_TODO_
+Nicolas est le _lead coach_ des **Jepsen**.  
+Mais tu t'en rendras compte très vite, tu le cotoieras très souvent : il sera ravi de t'apporter de l'aide et de répondre à tes questions.
+
+> 🤟 *Le savais-tu ?* Nicolas est un ancien de BeCode - tout ce que tu traverses, il l'a vécu lui aussi, et partage volontier son expérience.
+
+##### Contact
+
+- Ryver : **@nico_jamar**
+- Mail : [nicolas.jamar@becode.org](mailto:nicolas.jamar@becode.org)
 
 #### Anthony
 
-_TODO_
+Récemment arrivé dans l'équipe, Anthony est notre *supportive coach* : il travaille chez BeCode à mi-temps et accompagne les deux promos.  
+Ne te fie pas à son jeune âge : c'est un développeur expérimenté qui ne demande qu'à partager son expérience.
 
-### Éric
+> ✌️ En dehors de BeCode, Anthony a sa propre société au sein d'une coopérative de développeurs Liégeois. Curieux ? Demande-lui !
 
-_TODO_
+##### Contact
 
-### Alixe
+- Ryver : *TODO*
+- Mail : *TODO*
 
-_TODO_
+### L'équipe BeCode
 
-### Alexandre
+Il arrive que ta demande ne puisse pas être résolue par tes coaches (surtout si ça concerne de l'administratif, par exemple).  
+Heureusement, notre équipe est là.
 
-_TODO_
+#### Éric
+
+Éric est responsable de l'accompagnement des apprenants. C'est lui qui s'occupe de tout l'administratif en ce qui te concerne, notre interface avec le FOREM, ainsi qu'une aide précieuse dans ta recherche de stage et d'emploi.
+
+Il s'occupe des apprenants francophones chez BeCode (Bruxelles, Charleroi, Liège), et est à Liège chaque semaine, le mercredi ou le jeudi.
+
+Tout ce qui relève de l'administratif, c'est son domaine. C'est aussi lui qui surveille ton taux de présence.
+
+##### Contact
+
+- Ryver : **@eric**
+- Mail : [eric@becode.org](mailto:eric@becode.org)
+
+#### Alixe
+
+Alixe est la responsable communication et marketing pour le côté francophone de BeCode.
+
+Elle nous visite régulièrement et aura de temps en temps besoin de toi sous forme d'aide, pour représenter BeCode, discuter de ton parcours avec des partenaires ou la presse.
+
+> ☝️ Tu as envie de faire un peu de pub pour BeCode, par exemple en laissant des flyers dans ton club de sport/belote/macramé ? Contacte Alixe, elle a tout ce qu'il te faut.
+
+##### Contact
+
+- Ryver : **@alixe**
+- Mail : [alixe@becode.org](mailto:alixe@becode.org)
+
+#### Alexandre
+
+Alexandre est notre *head coach*, ou, si tu préfères, le *coach des coaches*.  
+Il viendra de temps à autre nous rendre visite, et te feras probablement participer à ses célèbres *focus group*, des petites réunions où *tu* nous aides à améliorer BeCode, en partageant ton expérience avec lui.
+
+> 🥺 On espère que ça n'arrivera jamais, mais c'est important - si jamais tu venais à avoir un souci avec un coach, Alexandre (ou Eric) sont là pour t'écouter et gérer le problème.
+
+##### Contact
+
+- Ryver : **@Alexandre**
+- Mail : [alexandre@becode.org](mailto:alexandre@becode.org)
 
 * * *
 
