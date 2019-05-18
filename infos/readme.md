@@ -51,7 +51,11 @@ N’oublie pas que je ne peux rien faire si je ne sais rien : _aide-moi à t’a
 
 ##### Contact
 
-_TODO_
+- Ryver : **@leny**
+- Mail : [leny@becode.org](mailto:leny@becode.org)
+- Phone : [+32 498 32 37 70](tel:0032498323770)
+
+> ⚠️ **ATTENTION :** mon numéro de téléphone est là pour les cas urgents, et _j’insiste_ : contacte-moi en priorité sur Ryver ou par mail, je suis _généralement_ tres réactif. 
 
 #### Nicolas
 
