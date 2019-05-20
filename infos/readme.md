@@ -71,17 +71,17 @@ Mais tu t'en rendras compte très vite, tu le cotoieras très souvent : il sera 
 - Ryver : **@nico_jamar**
 - Mail : [nicolas.jamar@becode.org](mailto:nicolas.jamar@becode.org)
 
-#### Anthony
+#### Antony
 
-Récemment arrivé dans l'équipe, Anthony est notre *supportive coach* : il travaille chez BeCode à mi-temps et accompagne les deux promos.  
+Récemment arrivé dans l'équipe, Antony est notre *supportive coach* : il travaille chez BeCode à mi-temps et accompagne les deux promos.  
 Ne te fie pas à son jeune âge : c'est un développeur expérimenté qui ne demande qu'à partager son expérience.
 
-> ✌️ En dehors de BeCode, Anthony a sa propre société au sein d'une coopérative de développeurs Liégeois. Curieux ? Demande-lui !
+> ✌️ En dehors de BeCode, Antony a sa propre société au sein d'une coopérative de développeurs Liégeois. Curieux ? Demande-lui !
 
 ##### Contact
 
-- Ryver : *TODO*
-- Mail : *TODO*
+- Ryver : **@antony**
+- Mail : [antony.rizzitelli@becode.org](mailto:antony.rizzitelly@becode.org)
 
 ### L'équipe BeCode
 
