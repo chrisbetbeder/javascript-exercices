@@ -135,15 +135,20 @@ Voici une liste de nos rituels :
 
 ### Le lancement de journée
 
-_TODO_
+Tous les matins, à 9h00 tapantes, la journée commence. Un petit mot des coaches, le programme de la journée, et parfois l'occasion de faire la météo de promo (nous vous présenterons très vite un outil nommé **pwojektè**, qui nous aidera bcp).  
+C'est l'occasion de faire savoir si tu veux un coup de main du groupe, un eclaircissement sur quoi que ce soit.
 
 ### La veille
 
-_TODO_
+Tous les jours, à BeCode, on fait la veille. C'est aussi _casual_ que la sieste, sauf qu'en plus tu apprends des trucs.  
+Une veille, c'est quoi ? Tout est expliqué sur le [repo dédié](https://github.com/becodeorg/The-Watch).
+
+> ☝️ **NOTE :** nous allons expérimenter un nouveau format de veille à Liège avec votre promo, nous vous en parlerons très vite.
 
 ### Le débrief
 
-_TODO_
+Régulièrement (au moins deux fois par semaine, parfois plus, en fonction des besoins), en fin de journée, on fait un _debrief_ : on fait le point sur les journées écoulées, les moments forts et les difficultés rencontrées.  
+Ça nous aide, nous, à voir où tout le monde se situe, et à toi, à voir si tu peux aider (ou te faire aider) par un autre apprenant apte à le faire.
 
 ### Les reviews
 
