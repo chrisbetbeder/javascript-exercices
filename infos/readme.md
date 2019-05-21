@@ -128,6 +128,17 @@ Il viendra de temps à autre nous rendre visite, et te feras probablement partic
 
 * * *
 
+## Les dates
+
+- **Début de la promo :** 21/05/2019
+- **Fin de la prairie :** 21/06/2019
+- **Première semaine de congé :** 22/07/2019 au 26/07/2019
+- **Seconde semaine de congé :** 23/09/2019 au 27/09/2019
+- **Début des pâturages :** _TODO_
+- **Début des stages :** _TODO_
+
+* * *
+
 ## Les rituels de BeCode
 
 Chez BeCode, nous allons suivre un rythme soutenu (on a pas de temps à perdre !), et le meilleur moyen de tenir la cadence, c'est de se créer une série de rituels qui vont ponctuer notre travail.
