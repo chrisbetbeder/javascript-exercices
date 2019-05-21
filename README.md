@@ -38,11 +38,13 @@ Une fois ça fait, à chaque fois que tu voudras _synchroniser_ ton fork avec le
 ## Retards et absences
 
 - Si tu dois fixer un rendez-vous quelconque, fixe-le le **mardi matin** (sois de retour pour 13h25).
-- Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à leny@becode.org ET kevin@becode.org . Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
+- Si vraiment tu ne peux faire autrement, préviens nous **au moins un jour à l'avance** en envoyant un email à leny@becode.org ET nicolas@becode.org . Nous l'ajouterons à l'agenda, de sorte que tout le monde sache qu'il ne peut compter sur toi à ce moment-là.
 - Malade ? Montre un certificat médical valide et préviens-nous par email aussitôt que possible.
 
 ## Table des matières
 
 Le repo de ta promo est organisé comme suit :
 
-- [**contenu**](./contenu): _TODO_
+- [**contenu**](./contenu): Les projets, exercices et travaux
+- [**infos**](./infos): Informations, tout ce qui est utile est regroupé ici
+- [**ressources**](./ressources): Ressources techniques, tutos, etc…
