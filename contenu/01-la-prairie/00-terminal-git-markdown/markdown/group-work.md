@@ -10,7 +10,7 @@
 - un(e) membre crée un repo intitulé `exercice-markdown` que les autres clonent (stratégie des mousquetaires).
 - Le groupe doit utiliser le système des branches de Git pour travailler collaborativement ce contenu.
 - Contenu : un pense-bête (un memo) de soit:
-   - ce que vous avez retenu de la journée 1 de l'atelier Google (synthèse de vos différentes notes).
+   - ce que vous avez retenu de vos débuts chez BeCode.
    - ce qu'est le MarkDown et un inventaire de sa syntaxe, le plus complet possible.
 -  Organisez le contenu dans au moins deux documents en MarkDown (extension des fichiers : `.md`).
 - Chaque fichier contient un menu permettant d'accéder à tous les autres.
