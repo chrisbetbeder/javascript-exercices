@@ -1,6 +1,6 @@
 # Startup Hamilton Liège 2.12
 
-> Repo principal de la startup Hamilton (Liège - 2ème promo, 12ème vague)
+> 📦 Repo principal de la startup Hamilton (Liège - 2ème promo, 12ème vague)
 
 * * *
 
