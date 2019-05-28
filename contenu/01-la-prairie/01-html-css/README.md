@@ -1,4 +1,5 @@
-# Projet
+# La Prairie : HTML & CSS
+
 Créer le dossier "Learning environement" et pour chaque exercice, créer un dossier au nom de l'exercice avec vos fichiers dedans.
 
 - N'oubliez pas de commenter votre code
