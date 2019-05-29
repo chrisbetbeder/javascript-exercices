@@ -36,9 +36,11 @@ Faire les actions suivantes dans le dossier **"starting-web-developpment"**
 - Dans **index.html** écrire du code HTML dont le résultat doit correspondre exactement à cette image ![Goal CSS](images/goal-html.png)
   - Lien vers la page Wikipedia de Tim Berners-Lee : https://fr.wikipedia.org/wiki/Tim_Berners-Lee
   - Pour avoir les icones utiliser ceci : 
-  ```html
-  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  ``` 
+
+```html
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+``` 
+  
   - Pour choisir les icones rendez-vous chez [FontAwesome](http://fontawesome.io/icons/)
 
 ### Étape 3 : CSS
