@@ -25,5 +25,14 @@
         "cerise",
     ];
 
-    // your code here
+    // afficher l'element tomate quand on clique sur le bouton
+    document.getElementById("run").addEventListener("click",
+        () => {
+
+            alert(fruits[3]);
+
+        });
+
+
+
 })();

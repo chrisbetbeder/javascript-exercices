@@ -10,8 +10,7 @@
 // You will have time to focus on it later.
 
 (() => {
-    const people = [
-        {
+    const people = [{
             firstname: "Grenville",
             lastname: "Stive",
             age: 64,
@@ -88,5 +87,20 @@
         },
     ];
 
-    // your code here
+
+    document.getElementById("run").addEventListener("click", () => {
+
+        var Allage = [];
+
+        people.array.forEach(element => {
+            Allage.push(element.age)
+
+        });
+
+        //additionner tout les âges du tableau avec la méthode reduce
+        const reducer = (accumulator, currentValue) => accumulator + currentValue;
+        var a = people.reduce(reducer());
+        console.log(a);
+
+    });
 })();

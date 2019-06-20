@@ -13,18 +13,34 @@
     // to get the value of an input: document.getElementById("element-id").value
 
     document.getElementById("addition").addEventListener("click", () => {
-        // perform an addition
+        var premier = document.getElementById("op-one").value;
+        var deuxieme = document.getElementById("op-two").value;
+        premier = parseInt(premier);
+        deuxieme = parseInt(deuxieme);
+        alert(premier + deuxieme);
     });
 
     document.getElementById("substraction").addEventListener("click", () => {
-        // perform an substraction
+        var premier = document.getElementById("op-one").value;
+        var deuxieme = document.getElementById("op-two").value;
+        premier = parseInt(premier);
+        deuxieme = parseInt(deuxieme);
+        alert(premier - deuxieme)
     });
 
     document.getElementById("multiplication").addEventListener("click", () => {
-        // perform an multiplication
+        var premier = document.getElementById("op-one").value;
+        var deuxieme = document.getElementById("op-two").value;
+        premier = parseInt(premier);
+        deuxieme = parseInt(deuxieme);
+        alert(premier * deuxieme);
     });
 
     document.getElementById("division").addEventListener("click", () => {
-        // perform an division
+        var premier = document.getElementById("op-one").value;
+        var deuxieme = document.getElementById("op-two").value;
+        premier = parseInt(premier);
+        deuxieme = parseInt(deuxieme);
+        alert(premier / deuxieme)
     });
 })();

@@ -24,4 +24,8 @@
     ]);
 
     // your code here
+
+    fruits[0] = "banane";
+    fruits[fruits.length - 1] = "kiwi";
+    console.log(fruits);
 })();

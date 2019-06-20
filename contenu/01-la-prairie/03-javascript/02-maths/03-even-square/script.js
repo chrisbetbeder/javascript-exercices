@@ -11,6 +11,17 @@
 
 (() => {
     document.getElementById("run").addEventListener("click", () => {
-        // your code here
+        var array = [];
+
+        for (var i = 0; i < 21; i++) {
+            // a++;
+            if (i % 2 == 0) {
+
+                // console.log(i * i)
+                array.push(i * i)
+            }
+        }
+        alert(array);
+
     });
 })();

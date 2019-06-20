@@ -11,5 +11,21 @@
 
 (() => {
     // to change the content of a tag: document.getElementById("element-id").innerHTML = "new-value"
-    // your code here
+
+
+    var now = new Date(); //nommer la variable et l'associé à une valeur
+    //date.toLocaleDateString();
+
+    var options = {
+        weekday: "long",
+        year: "numeric",
+        month: "long",
+        day: "numeric",
+        hours: "numeric",
+        minutes: "numeric"
+    };
+
+    document.getElementById("target").innerHTML = now.toLocaleDateString("fr-BE", options) + "," + " " + now.getHours() + ":" + now.getMinutes();
+
+
 })();

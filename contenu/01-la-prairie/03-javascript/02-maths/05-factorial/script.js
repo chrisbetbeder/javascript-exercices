@@ -13,6 +13,12 @@
     // to get the value of an input: document.getElementById("element-id").value
 
     document.getElementById("run").addEventListener("click", () => {
-        // your code here
+        var resultat = parseInt(document.getElementById("number").value);
+
+        for (var i = 1; i < parseInt(document.getElementById("number").value); i++) {
+            resultat *= i;
+
+        }
+        alert(resultat);
     });
 })();

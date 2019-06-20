@@ -23,5 +23,10 @@
         "cerise",
     ];
 
+    fruits[0] = "banane";
+    fruits[fruits.length - 1] = "kiwi";
+
+    alert(fruits);
+
     // your code here
 })();

@@ -26,4 +26,21 @@
     ];
 
     // your code here
+
+    document.getElementById("run").addEventListener("click", () => {
+
+        // verifier si pomme est dans le tableau
+        var result = fruits.find(function (element) {
+            return element == "pomme";
+        });
+
+        if (result != null) {
+
+            console.log("oui");
+        } else {
+            console.log("non");
+        }
+    });
+
+
 })();

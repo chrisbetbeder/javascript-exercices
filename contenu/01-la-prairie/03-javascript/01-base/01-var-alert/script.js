@@ -10,5 +10,6 @@
 // You will have time to focus on it later.
 
 (() => {
-    // your code here
+    var message = "Hello, World!";
+alert(message);
 })();

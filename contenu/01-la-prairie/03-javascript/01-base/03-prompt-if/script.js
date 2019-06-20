@@ -10,5 +10,12 @@
 // You will have time to focus on it later.
 
 (() => {
-    // your code here
+        var gateau = prompt("Voulez-vous du gateau?");
+        if (gateau === oui) {
+            alert("Super!");
+        } else {
+            alert("Du gateau ça ne se refuse pas!");
+        }
+
+    }
 })();

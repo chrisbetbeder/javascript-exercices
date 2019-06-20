@@ -10,5 +10,16 @@
 // You will have time to focus on it later.
 
 (() => {
-    // your code here
-})();
+        var bouton = true;
+        while (bouton) {
+            var age = prompt("Quel âge avez vous?");
+            var sexe = prompt("Votre sexe?");
+            var ville = prompt("Votre ville ?");
+
+            if (confirm(age + sexe + ville)) {
+                bouton = false;
+            } else {}
+        }
+    }
+
+)();

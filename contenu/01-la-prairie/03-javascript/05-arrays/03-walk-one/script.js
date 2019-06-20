@@ -10,20 +10,30 @@
 // You will have time to focus on it later.
 
 (() => {
-    const fruits = [
-        "pomme",
-        "poire",
-        "fraise",
-        "tomate",
-        "kiwi",
-        "banane",
-        "orange",
-        "mandarine",
-        "durian",
-        "pêche",
-        "raisin",
-        "cerise",
-    ];
+    document.getElementById("run").addEventListener("click", () => {
+        const fruits = [
+            "pomme",
+            "poire",
+            "fraise",
+            "tomate",
+            "kiwi",
+            "banane",
+            "orange",
+            "mandarine",
+            "durian",
+            "pêche",
+            "raisin",
+            "cerise",
+        ];
 
-    // your code here
+        //créer la boucle for, i commence à zero et va jusqu'à la fin de la liste (cerise) et tourne 1 fois
+        for (let i = 0; i < fruits.length; i++) {
+            //afficher dans la console la liste 
+            console.log(fruits[i]);
+        };
+
+    });
+
+
+
 })();

@@ -13,7 +13,41 @@
     // to get the value of an input: document.getElementById("element-id").value
 
     const performOperation = operation => {
-        // perform the operation
+        var premier = parseInt(document.getElementById("op-one").value);
+        var deuxieme = parseInt(document.getElementById("op-two").value);
+
+
+        switch (operation) {
+            case "addition":
+                alert("resultat :" + (premier + deuxieme));
+
+                break;
+
+
+
+            case "substraction":
+                alert("resultat:" + (premier - deuxieme));
+
+                break;
+
+
+
+            case "multiplication":
+                alert("resultat:" + (premier * deuxieme));
+
+                break;
+
+
+
+            case "division":
+                alert("resultat:" + (premier / deuxieme));
+
+                break;
+
+            default:
+                alert("un truc bidon!");
+
+        }
     };
 
     Array.from(document.querySelectorAll("button.operator")).forEach($btn =>

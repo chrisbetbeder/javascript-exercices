@@ -10,5 +10,17 @@
 // You will have time to focus on it later.
 
 (() => {
-    // your code here
+    // arrondir puis random sur les 255 nuances
+    var r = Math.floor(Math.random() * 256);
+    var g = Math.floor(Math.random() * 256);
+    var b = Math.floor(Math.random() * 256);
+
+    var color = "rgb(" + r + "," + g + "," + b + ")";
+    alert(color);
+
+
+    // activer le click
+    document.getElementById("run").addEventListener("click", () => {
+        document.body.style.backgroundColor = color;
+    })
 })();
