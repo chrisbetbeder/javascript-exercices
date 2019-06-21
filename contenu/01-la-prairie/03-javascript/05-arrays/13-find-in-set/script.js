@@ -22,5 +22,17 @@
         "Lucas",
     ]);
 
-    // your code here
+    // bouton cliquable
+    document.getElementById("run").addEventListener("click", () => {
+
+        //afficher le nombre de personne (addition)
+        var listearray = [...people];
+
+        console.log(listearray.length);
+
+        //dire si Alexandre fait parti du Set
+        console.log("Alexandre fait parti du Set");
+
+    });
+
 })();

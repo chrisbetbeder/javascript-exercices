@@ -10,5 +10,14 @@
 // You will have time to focus on it later.
 
 (() => {
-    // your code here
+    //activer le clic
+    document.getElementById("run").addEventListener("click", () => {
+
+        //conditions si mot de passe différents afficher les bords de l'input en rouge
+        if ("pass-one" != "pass-two") {
+            document.body.style.borderColor = "red";
+        }
+
+
+    });
 })();

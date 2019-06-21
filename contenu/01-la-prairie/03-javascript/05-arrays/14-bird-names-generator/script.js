@@ -10,19 +10,48 @@
 // You will have time to focus on it later.
 
 (() => {
-    const birds = [
-        {name: "mouette", fem: true},
-        {name: "corbeau"},
-        {name: "mésange", fem: true},
-        {name: "hibou"},
-        {name: "buse", fem: true},
-        {name: "pigeon"},
-        {name: "pie", fem: true},
-        {name: "vautour"},
-        {name: "faucon"},
-        {name: "rouge-gorge"},
-        {name: "tourterelle", fem: true},
-        {name: "corneille", fem: true},
+    const birds = [{
+            name: "mouette",
+            fem: true
+        },
+        {
+            name: "corbeau"
+        },
+        {
+            name: "mésange",
+            fem: true
+        },
+        {
+            name: "hibou"
+        },
+        {
+            name: "buse",
+            fem: true
+        },
+        {
+            name: "pigeon"
+        },
+        {
+            name: "pie",
+            fem: true
+        },
+        {
+            name: "vautour"
+        },
+        {
+            name: "faucon"
+        },
+        {
+            name: "rouge-gorge"
+        },
+        {
+            name: "tourterelle",
+            fem: true
+        },
+        {
+            name: "corneille",
+            fem: true
+        },
     ];
     const adjectives = new Set([
         "cendré",
@@ -38,5 +67,27 @@
         "arboré",
     ]);
 
-    // your code here
+    // bouton cliquable
+    document.getElementById("run").addEventListener("click", () => {
+
+        //générer un nom d'oiseau et un adjectifs aléatoirement
+        var adjectifs = [...adjectives];
+
+        var oiseauxRandom = birds[Math.floor(Math.random() * birds.length)];
+
+        var adjectifsRandom = adjectifs[Math.floor(Math.random() * adjectifs.length)];
+
+
+        //accorder les oiseau aux adjectifs en ajoutant un "e"
+
+        if (oiseauxRandom.fem === true) {
+            document.getElementById("target").innerHTML = oiseauxRandom.name + " " + adjectifsRandom + "e";
+        } else {
+            document.getElementById("target").innerHTML = oiseauxRandom.name + " " + adjectifsRandom;
+        }
+
+        console.log(oiseauxRandom);
+        console.log(adjectifsRandom);
+
+    });
 })();

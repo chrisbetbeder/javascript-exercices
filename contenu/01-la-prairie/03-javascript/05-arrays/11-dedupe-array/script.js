@@ -27,5 +27,17 @@
         "cerise",
     ];
 
-    // your code here
+    // bouton cliquable
+    document.getElementById("run").addEventListener("click", () => {
+
+        //dedoublonnée chaque valeurs
+
+        fruits2 = new Set([...fruits]);
+
+
+        //afficher le tableau fruits
+        console.log(fruits2);
+
+    });
+
 })();

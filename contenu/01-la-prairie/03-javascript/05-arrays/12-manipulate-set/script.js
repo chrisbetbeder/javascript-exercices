@@ -23,9 +23,29 @@
         "cerise",
     ]);
 
-    // your code here
+    // bouton cliquable
+    document.getElementById("run").addEventListener("click", () => {
 
-    fruits[0] = "banane";
-    fruits[fruits.length - 1] = "kiwi";
-    console.log(fruits);
+        //modifier la composition du tableau
+
+
+        /* fruits.entries().splice(0, 1, 'banane'); */
+        //fruits.splice(-2, 1, 'kiwi');
+
+        //fruits[0] = "banane";
+        //fruits[fruits.length - 1] = "kiwi";
+
+
+        // afficher en console.log
+
+        fruits.delete("pomme");
+        fruits.delete("cerise");
+        fruits.add("banane");
+        fruits.add("kiwi");
+
+
+
+        console.log(fruits);
+
+    });
 })();
